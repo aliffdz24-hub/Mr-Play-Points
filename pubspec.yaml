@@ -1,0 +1,13 @@
+name: mr_play_points
+description: Mr Play Points
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.7.0
+  shared_preferences: ^2.2.3
+flutter:
+  uses-material-design: true
